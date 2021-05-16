@@ -1,7 +1,10 @@
 # cask-fonts
 
-How do I install these formulae?
-For install font-sarasa-nerd:
+## How do I install these formulae?
 
-brew tap whjkd2005/cask-fonts
+For install `font-sarasa-nerd`:
+
+```sh
+brew tap laishulu/cask-fonts
 brew cask install font-sarasa-nerd
+```
