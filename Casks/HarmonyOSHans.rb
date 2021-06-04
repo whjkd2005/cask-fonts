@@ -2,7 +2,7 @@ cask "HarmonyOSHans" do
   version "1.0"
 
   url "https://github.com/whjkd2005/HarmonyOSHans/archive/v#{version}.zip"
-  name "HarmonyOSHans font"
+  name "HarmonyOSHans"
   homepage "https://github.com/whjkd2005/HarmonyOSHans"
 
   font "HarmonyOSHans-#{version}/HarmonyOSHans Black.ttf"
