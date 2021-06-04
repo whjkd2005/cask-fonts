@@ -1,4 +1,4 @@
-cask "font-HarmonyOSHans" do
+cask "HarmonyOSHans" do
   version "1.0"
 
   url "https://github.com/whjkd2005/HarmonyOSHans/archive/v#{version}.zip"
