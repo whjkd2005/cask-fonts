@@ -1,8 +1,8 @@
-cask "HarmonyOSHans" do
+cask "harmonyoshans" do
   version "1.0"
 
   url "https://github.com/whjkd2005/HarmonyOSHans/archive/v#{version}.zip"
-  name "HarmonyOSHans"
+  name "harmonyoshans"
   homepage "https://github.com/whjkd2005/HarmonyOSHans"
 
   font "HarmonyOSHans-#{version}/HarmonyOSHans Black.ttf"
