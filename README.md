@@ -6,9 +6,9 @@ For install :
 
 ```sh
 brew tap whjkd2005/cask-fonts
-brew install font-sarasa-nerd
-brew install font-HarmonyOSHans
-brew install font-MiSans
+brew install --cask font-sarasa-nerd
+brew install --cask font-HarmonyOSHans
+brew install --cask font-MiSans
 ```
 
 For uninstall :
