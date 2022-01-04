@@ -1,5 +1,5 @@
 cask "font-sarasa-nerd" do
-  version "2.0.1"
+  version "2.1.0"
 
   url "https://github.com/laishulu/Sarasa-Mono-SC-Nerd/archive/v#{version}.zip"
   name "Sarasa Mono SC Nerd font"
