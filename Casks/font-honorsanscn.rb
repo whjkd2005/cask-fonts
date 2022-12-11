@@ -1,4 +1,4 @@
-cask "font-HONORSansCN" do
+cask "font-honorsanscn" do
   version "1.0"
 
   url "https://github.com/whjkd2005/HONORSansCN-Fonts/archive/refs/tags/{version}.zip"
