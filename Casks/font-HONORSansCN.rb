@@ -2,7 +2,7 @@ cask "font-HONORSansCN" do
   version "1.0"
 
   url "https://github.com/whjkd2005/HONORSansCN/archive/v#{version}.zip"
-  name "harmonyoshans"
+  name "HONORSansCN"
   homepage "https://github.com/whjkd2005/HONORSansCN"
 
   font "HONORSansCN-#{version}/HONORSansCN-Bold.ttf"
